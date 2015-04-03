@@ -1,3 +1,3 @@
 # dbtrain
-q database training tool
+cool database training tool
 asd
